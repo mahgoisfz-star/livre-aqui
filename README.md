@@ -96,8 +96,8 @@ livre-aqui/
 
 ## Equipe
 
-- **[NOME DELA]**: pesquisadora em propriedade intelectual. Regras de classificação, validação e contato com usuários.
-- **[NOME DELE]**: desenvolvedor de sistemas. Coleta de dados, IA, API e chatbot.
+- **MAITÊ PEREIRA DA COSTA GÓS FERRAZ**: pesquisadora em propriedade intelectual. Regras de classificação, validação e contato com usuários.
+- **LUCCA HORVATH DE LIMA TOMBINI**: desenvolvedor de sistemas. Coleta de dados, IA, API e chatbot.
 
 ## Como contribuir
 
